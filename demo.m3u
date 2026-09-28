@@ -7,3 +7,19 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="demo.tos" group-title="Demo",Tears of Steel (CC BY, Blender Foundation)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/big-buck-bunny.jpg" group-title="Blender Open Movies (CC BY)",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/elephants-dream.jpg" group-title="Blender Open Movies (CC BY)",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/sintel.jpg" group-title="Blender Open Movies (CC BY)",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-stereo.mp4
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/tears-of-steel.jpg" group-title="Blender Open Movies (CC BY)",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/cosmos-laundromat.jpg" group-title="Blender Open Movies (CC BY)",Cosmos Laundromat (2015)
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/caminandes.jpg" group-title="Blender Open Movies (CC BY)",Caminandes S01E01 - Llama Drama
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/caminandes.jpg" group-title="Blender Open Movies (CC BY)",Caminandes S01E02 - Gran Dillama
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:-1 tvg-type="series" tvg-logo="https://omerfkurt55.github.io/popkerntv-releases/demo/caminandes.jpg" group-title="Blender Open Movies (CC BY)",Caminandes S01E03 - Llamigos
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
